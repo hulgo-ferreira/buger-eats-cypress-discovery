@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Hulgo Rafael",
+        "cpf": "00000014141",
+        "email": "hulgo@hotmail.com",
+        "whatsapp": "14997664588",  
+        "address": { 
+            "postalcode": "17052670", 
+            "street": "Rua Rosevaldo de Abreu Ribeiro", 
+            "number": "572", 
+            "details": "casa",  
+            "district": "Jardim Ferraz", 
+            "city_state": "Bauru/SP"    
+        },
+        "delivery_method": "Moto", 
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Hulgo Rafael",
+        "cpf": "00000014141AA",
+        "email": "hulgo@hotmail.com",
+        "whatsapp": "14997664588",  
+        "address": { 
+            "postalcode": "17052670", 
+            "street": "Rua Rosevaldo de Abreu Ribeiro", 
+            "number": "572", 
+            "details": "casa",  
+            "district": "Jardim Ferraz", 
+            "city_state": "Bauru/SP"    
+        },
+        "delivery_method": "Moto", 
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Hulgo Rafael",
+        "cpf": "00000014141",
+        "email": "hulgo.com.br",
+        "whatsapp": "14997664588",  
+        "address": { 
+            "postalcode": "17052670", 
+            "street": "Rua Rosevaldo de Abreu Ribeiro", 
+            "number": "572", 
+            "details": "casa",  
+            "district": "Jardim Ferraz", 
+            "city_state": "Bauru/SP"    
+        },
+        "delivery_method": "Moto", 
+        "cnh": "cnh-digital.jpg"
+    }
+}
